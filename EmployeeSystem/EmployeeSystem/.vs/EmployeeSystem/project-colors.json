@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99fb7664-ca75-47dd-a3e1-9be3632918a1": {
+      "ProjectGuid": "99fb7664-ca75-47dd-a3e1-9be3632918a1",
+      "DisplayName": "EmployeeSystem",
+      "ColorIndex": 0
+    },
+    "8bee4096-0832-495f-b461-ecba7a57fe38": {
+      "ProjectGuid": "8bee4096-0832-495f-b461-ecba7a57fe38",
+      "DisplayName": "SpecFlowProject1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
